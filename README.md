@@ -22,6 +22,22 @@ implementation 'com.github.rsoni286:Informer:1.0.0'
 
 ### Use it in your activity
 
+
+#### Success
+<img src="https://raw.githubusercontent.com/rsoni286/Informer/master/informer/ss3.jpg" alt="drawing" width="200"/>
+
+
+#### Error
+<img src="https://raw.githubusercontent.com/rsoni286/Informer/master/informer/ss2.jpg" alt="drawing" width="200"/>
+
+
+#### Default
+<img src="https://raw.githubusercontent.com/rsoni286/Informer/master/informer/ss1.jpg" alt="drawing" width="200"/>
+
+
+#### Custom
+<img src="https://raw.githubusercontent.com/rsoni286/Informer/master/informer/ss4.jpg" alt="drawing" width="200"/>
+
 ```
 //for default view
 Informer.informDefault(MainActivity.this, "This is default message");
@@ -41,3 +57,4 @@ Informer.informError(MainActivity.this, "This is error message");
                         .inform("This is custom message");
 
 ```
+
