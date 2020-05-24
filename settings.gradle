@@ -1,0 +1,3 @@
+rootProject.name='InformerDemo'
+include ':app'
+include ':informer'
